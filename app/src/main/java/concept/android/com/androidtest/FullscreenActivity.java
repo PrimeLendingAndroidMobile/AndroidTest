@@ -87,6 +87,8 @@ public class FullscreenActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+        //added a comment
+
         setContentView(R.layout.activity_fullscreen);
 
         mVisible = true;
